@@ -74,7 +74,7 @@ void changeFlag() { //definately not the most efficient way to do this, but it w
     h = 102;
     i = 0;
 
-    System.out.println("3: Ireland");
+    System.out.println("2: Ireland");
   } else if (j == 3) {
     a = 0;
     b = 204;
@@ -88,7 +88,7 @@ void changeFlag() { //definately not the most efficient way to do this, but it w
     h = 204;
     i = 0;
 
-    System.out.println("4: Nigeria");
+    System.out.println("3: Nigeria");
   } else if (j == 4) {
     a = 0;
     b = 204;
@@ -102,7 +102,7 @@ void changeFlag() { //definately not the most efficient way to do this, but it w
     h = 0;
     i = 0;
 
-    System.out.println("2: Italy");
+    System.out.println("4: Italy");
   } else if (j == 5) {
     a = 0;
     b = 255;
